@@ -1,0 +1,29 @@
+{
+  "name": "vscode-test-runne-template",
+  "version": "1.0.0",
+  "description": "A project template that run a vscode task to run the test of the project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafailong/vscode-test-runne-template.git"
+  },
+  "keywords": [
+    "vscode",
+    "gulp",
+    "test"
+  ],
+  "author": "Rafailong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rafailong/vscode-test-runne-template/issues"
+  },
+  "homepage": "https://github.com/Rafailong/vscode-test-runne-template#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.4.5"
+  }
+}
